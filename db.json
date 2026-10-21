@@ -1,0 +1,124 @@
+{
+  "estilos": [
+    {
+      "id": 1,
+      "nome": "Japandi",
+      "descricao": "Combina a simplicidade japonesa com o aconchego escandinavo.",
+      "caracteristicas": [
+        "Materiais naturais",
+        "Madeira clara",
+        "Tons neutros",
+        "Móveis funcionais",
+        "Poucos objetos decorativos"
+      ],
+      "cores": [
+        "bege",
+        "branco",
+        "marrom",
+        "cinza"
+      ],
+      "materiais": [
+        "madeira",
+        "linho",
+        "cerâmica",
+        "pedra"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Minimalista",
+      "descricao": "Valoriza a simplicidade, a funcionalidade e os ambientes sem excessos.",
+      "caracteristicas": [
+        "Poucos móveis",
+        "Linhas simples",
+        "Espaços organizados",
+        "Decoração discreta",
+        "Valorização da luz natural"
+      ],
+      "cores": [
+        "branco",
+        "bege",
+        "cinza",
+        "preto"
+      ],
+      "materiais": [
+        "madeira",
+        "vidro",
+        "metal",
+        "pedra"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Rústico",
+      "descricao": "Valoriza elementos naturais e acabamentos que transmitem aconchego.",
+      "caracteristicas": [
+        "Madeira com aparência natural",
+        "Texturas marcantes",
+        "Móveis robustos",
+        "Elementos artesanais",
+        "Sensação de aconchego"
+      ],
+      "cores": [
+        "marrom",
+        "bege",
+        "terracota",
+        "verde-oliva"
+      ],
+      "materiais": [
+        "madeira",
+        "pedra",
+        "ferro",
+        "algodão"
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Industrial",
+      "descricao": "Inspirado em fábricas e galpões, combina materiais aparentes e elementos urbanos.",
+      "caracteristicas": [
+        "Tijolos aparentes",
+        "Estruturas metálicas",
+        "Concreto aparente",
+        "Luminárias de metal",
+        "Móveis de linhas marcantes"
+      ],
+      "cores": [
+        "preto",
+        "cinza",
+        "marrom",
+        "cobre"
+      ],
+      "materiais": [
+        "metal",
+        "concreto",
+        "tijolo",
+        "madeira"
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Moderno",
+      "descricao": "Prioriza funcionalidade, formas geométricas e uma composição visual equilibrada.",
+      "caracteristicas": [
+        "Linhas retas",
+        "Formas geométricas",
+        "Móveis funcionais",
+        "Integração dos ambientes",
+        "Combinação de materiais contemporâneos"
+      ],
+      "cores": [
+        "branco",
+        "preto",
+        "cinza",
+        "bege"
+      ],
+      "materiais": [
+        "vidro",
+        "metal",
+        "madeira",
+        "concreto"
+      ]
+    }
+  ]
+}
